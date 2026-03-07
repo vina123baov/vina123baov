@@ -74,7 +74,7 @@ const PeterBao = {
 | 🎯 | Status |
 |---|---|
 | 🔭 | Currently working at **UMT - The best computer shop in the world** |
-| 🌱 | Currently learning **Data Science** & **ASP.NET Core** |
+| 🌱 | Currently learning ** Science** & **ASP.NET Core** |
 | 👨‍💻 | All of my projects are available on [**GitHub**](https://github.com/vina123baov) |
 | 💬 | Ask me about **Games** 🎮 |
 | 📫 | How to reach me: **vothaibao1508@gmail.com** |
@@ -114,7 +114,6 @@ const PeterBao = {
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -130,7 +129,6 @@ const PeterBao = {
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 </details>
 
