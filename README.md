@@ -85,7 +85,7 @@ const PeterBao = {
 <!-- TECH STACK -->
 <div align="center">
 
-### 💎 Tech Arsenal
+### 💎 Tech
 
 <!-- LANGUAGES -->
 <details open>
@@ -141,7 +141,6 @@ const PeterBao = {
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matlab-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
