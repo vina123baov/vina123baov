@@ -239,10 +239,10 @@ const PeterBao = {
   <a href="https://github.com/vina123baov">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://fb.com/peter%20bao">
+  <a href="[https://fb.com/peter%20bao](https://www.facebook.com/thaibao.vo.56211)">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:vothaibao1508@gmail.com">
+  <a href="mailto:vothaibao50@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
