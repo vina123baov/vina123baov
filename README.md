@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%8E%AE+Gamer+%7C+%F0%9F%92%BB+Developer+%7C+%F0%9F%A7%A0+Data+Science+Learner;%F0%9F%94%A5+ASP.NET+Core+%7C+%F0%9F%90%8D+Python+%7C+%E2%9A%9B%EF%B8%8F+React;%F0%9F%8F%AA+Studing+at+UMT+-+Best+Computer+Shop+in+the+World!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%8E%AE+Gamer+%7C+%F0%9F%92%BB+Developer+%7C+%F0%9F%A7%A0+Data+Science+Learner;%F0%9F%94%A5+ASP.NET+Core+%7C+%F0%9F%90%8D+Python+%7C+%E2%9A%9B%EF%B8%8F+React;%F0%9F%8F%AA+Studing+at+UMT" alt="Typing SVG" />
   </a>
 
   <br/>
