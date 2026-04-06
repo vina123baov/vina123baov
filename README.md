@@ -87,12 +87,6 @@ tools:        [ LaTeX, Figma ]
 ---
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vina123baov&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
----
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
