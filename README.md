@@ -65,27 +65,6 @@ tools:        [ LaTeX, Figma ]
 
 ---
 
-## `> git log --stats`
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vina123baov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true" alt="Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=vina123baov&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&dates=484f58" alt="Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vina123baov&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8" alt="Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vina123baov&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=" alt="Activity"/>
-</div>
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
