@@ -14,7 +14,7 @@
 ```
  ╔══════════════════════════════════════════════════════════════════╗
  ║                                                                  ║
- ║   4th year IT student  ·  Software Engineering @ UMT             ║
+ ║   Graduated IT student  ·  Software Engineering @ UMT             ║
  ║   Previously interned @ SoftWorld VietNam (Japanese IT company)  ║
  ║   Global Citizen Fellowship 2025 @ UNJ, Indonesia                ║
  ║                                                                  ║
